@@ -7,7 +7,7 @@ La dirección abre directo la **versión con Meta Immersive Web SDK (IWSDK)**, l
 ## Abrirla en las Quest 3
 
 1. Ponte las gafas y abre **Quest Browser** (el navegador de Meta).
-2. Escribe **`katbogo.github.io/bulevar-diverso-AR`** — con **AR en mayúscula**: GitHub distingue mayúsculas y con `ar` en minúscula sale «404».
+2. Escribe **`katbogo.github.io/bulevar-diverso-ar`** (todo en minúscula).
 3. Espera a que cargue la isla y pulsa **«Entrar en realidad aumentada»**. Acepta el permiso que pide el navegador.
 4. Verás tu cuarto y la maqueta frente a ti:
    - **Mover:** pellizca la isla (junta el pulgar y el índice con la mano sobre ella) y mantén el pellizco; al soltar, se queda ahí.
