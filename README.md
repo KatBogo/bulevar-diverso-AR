@@ -2,15 +2,12 @@
 
 La isla del Bulevar del Río (Cali) como una maqueta 3D en tu cuarto, para recorrer con las manos en las **Meta Quest 3**. Esta carpeta es la **página ya construida** (la genera `npm run github:ar` en el proyecto de código) y se publica con GitHub Pages.
 
-Hay dos versiones:
-
-- **`/iwsdk/`: la versión con Meta Immersive Web SDK (IWSDK)**, la que se presenta. Del estilo `https://TU-USUARIO.github.io/bulevar-diverso-AR/iwsdk/`.
-- **La raíz (`/`)**: la primera versión, hecha con @react-three/xr.
+La dirección abre directo la **versión con Meta Immersive Web SDK (IWSDK)**, la que se presenta (está en la carpeta `iwsdk/`). La primera versión, hecha con @react-three/xr, sigue en la misma dirección con `?xr` al final.
 
 ## Abrirla en las Quest 3
 
 1. Ponte las gafas y abre **Quest Browser** (el navegador de Meta).
-2. Entra al enlace de GitHub Pages de este repositorio terminado en **`/iwsdk/`**.
+2. Escribe **`katbogo.github.io/bulevar-diverso-AR`** — con **AR en mayúscula**: GitHub distingue mayúsculas y con `ar` en minúscula sale «404».
 3. Espera a que cargue la isla y pulsa **«Entrar en realidad aumentada»**. Acepta el permiso que pide el navegador.
 4. Verás tu cuarto y la maqueta frente a ti:
    - **Mover:** pellizca la isla (junta el pulgar y el índice con la mano sobre ella) y mantén el pellizco; al soltar, se queda ahí.
